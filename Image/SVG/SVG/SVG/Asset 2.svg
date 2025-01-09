@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.37 31.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #675eaa;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #b0c4dd;
+      }
+
+      .cls-4 {
+        opacity: .58;
+      }
+
+      .cls-3 {
+        fill: #d3e6f7;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-4">
+      <circle class="cls-3" cx="15.69" cy="15.69" r="15.69"/>
+      <circle class="cls-2" cx="16.65" cy="17.08" r="12.72"/>
+      <circle class="cls-1" cx="17.65" cy="18.08" r="9.65"/>
+    </g>
+  </g>
+</svg>
